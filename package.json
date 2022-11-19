@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@symfony/webpack-encore": "^0.28.0"
+    "@symfony/webpack-encore": "^4.1.1"
   },
   "devDependencies": {},
   "scripts": {
